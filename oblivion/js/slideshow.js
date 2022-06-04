@@ -12,7 +12,7 @@ $(document).ready(function () {
   
       {
         name: 'insta',
-        link: 'instagram.com/zilla',
+        link: 'https://instagram.com/zilla',
       },
 
     ];
