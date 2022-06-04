@@ -2,7 +2,7 @@ $(document).ready(function () {
     var links = [
       {
         name: 'discord',
-        link: 'https://discord.com/users/857788201744728065',
+        link: 'https://discord.com/users/582208294504890403',
       },
   
       {
@@ -12,7 +12,7 @@ $(document).ready(function () {
   
       {
         name: 'insta',
-        link: 'https://instagram.com/biggestzillafan',
+        link: 'instagram.com/zilla',
       },
 
     ];
